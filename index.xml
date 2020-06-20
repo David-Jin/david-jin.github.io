@@ -12,14 +12,26 @@
     
     
     <item>
-      <title>First</title>
+      <title>第一篇</title>
       <link>http://www.wheegoo.com/post/first/</link>
       <pubDate>Sat, 20 Jun 2020 16:45:08 +0800</pubDate>
       
       <guid>http://www.wheegoo.com/post/first/</guid>
       
-        <description>&lt;p&gt;开博第一篇写点什么呢？&lt;/p&gt;
-&lt;p&gt;就讲讲我这个域名的来历吧，2006年的时候，公司里面大多数人都叫我伟哥，其实我一开始听着这个名字很不爽的，怎么就和一种药联系起来了呢？我屡次想打破这个困局，无奈天天被人这样叫，想让大家改口都改不过来，叫着叫着，貌似还挺顺口的。算了，形势比人强，就这样作为了我的绰号。&lt;/p&gt;
+        <description>
+&lt;link rel=&#34;stylesheet&#34; href=&#34;http://www.wheegoo.com/css/hugo-easy-gallery.css&#34; /&gt;
+&lt;div class=&#34;box&#34;&gt;
+&lt;figure  itemprop=&#34;associatedMedia&#34;
+  itemscope itemtype=&#34;http://schema.org/ImageObject&#34; &gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;http://www.wheegoo.com/image/first/pfizer.jpg&#34; /&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;http://www.wheegoo.com/image/first/pfizer.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;开博第一篇写点什么呢？&lt;/p&gt;
+&lt;p&gt;就讲讲我这个域名的来历吧，2006 年的时候，公司里面大多数人都叫我伟哥，其实我一开始听着这个名字很不爽的，怎么就和一种药联系起来了呢？我屡次想打破这个困局，无奈天天被人这样叫，想让大家改口都改不过来，叫着叫着，貌似还挺顺口的。算了，形势比人强，就这样作为了我的绰号。&lt;/p&gt;
 &lt;p&gt;那个时候博客还是个稀奇的东西，尤其看到制作精良和独立域名的博客，都会好好收藏且拜读。后来，我就想注册一个和我名字有点关系的域名。好的域名基本都没有希望，那就挑难听的吧，比如伟哥这样的名字。然后我就用 “www.wego.com” 去搜索，当然这么短小精悍的域名轮不到我。 接着 “www.weegoo.com”，同样也被注册了。然后就发挥我造词的功力了。 英语里面 wh 和 w 的发音是一样的。就加一个 h 试试看。“www.wheegoo.com” 果然没有被注册。然后我就把邮箱和域名都一口气注册了。先不管干啥用，占个坑再说。十多年以后总想弄个网站主页之类的东西，刚好就把这个域名给用上了。&lt;/p&gt;
 </description>
       
@@ -32,9 +44,13 @@
       
       <guid>http://www.wheegoo.com/about/</guid>
       
-        <description>&lt;p&gt;好奇心让生活变得有意思！&lt;/p&gt;
-&lt;p&gt;鄙人80后老程序员，捣鼓各种Linux和另类操作系统以及各种芯片十年有五。始终兴趣盎然，不厌其烦。&lt;/p&gt;
-&lt;p&gt;好游泳，管乐乐器，读书。&lt;/p&gt;
+        <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;好奇心让生活变得有意思！&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;这是我比较喜欢的一句话，所以让这句话来提纲这个空间站的主题是比较合适的。&lt;/p&gt;
+&lt;p&gt;鄙人乃 80 后的老程序员，好捣鼓各种 Linux 和另类操作系统以及各种 Soc 芯片，十载有五，始终兴趣盎然，乐此不疲，自得其乐。&lt;/p&gt;
+&lt;p&gt;年少时沉迷折腾无线电，稍致荒废学习。 幸得高人指点，才不至远离大道。 青年时亦参与开源社区贡献，虽贡献无多，但颇有开源精神。临近不惑之年，稍有感悟，常将心得记录在案，时习之。&lt;/p&gt;
+&lt;p&gt;好游泳，奏乐器，喜读书。&lt;/p&gt;
 </description>
       
     </item>
