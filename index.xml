@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>伟哥的空间站</title>
+    <link>http://www.wheegoo.com/</link>
+    <description>Recent content on 伟哥的空间站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 20 Jun 2020 16:45:08 +0800</lastBuildDate>
+    
+        <atom:link href="http://www.wheegoo.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First</title>
+      <link>http://www.wheegoo.com/post/first/</link>
+      <pubDate>Sat, 20 Jun 2020 16:45:08 +0800</pubDate>
+      
+      <guid>http://www.wheegoo.com/post/first/</guid>
+      
+        <description>&lt;p&gt;开博第一篇写点什么呢？&lt;/p&gt;
+&lt;p&gt;就讲讲我这个域名的来历吧，2006年的时候，公司里面大多数人都叫我伟哥，其实我一开始听着这个名字很不爽的，怎么就和一种药联系起来了呢？我屡次想打破这个困局，无奈天天被人这样叫，想让大家改口都改不过来，叫着叫着，貌似还挺顺口的。算了，形势比人强，就这样作为了我的绰号。&lt;/p&gt;
+&lt;p&gt;那个时候博客还是个稀奇的东西，尤其看到制作精良和独立域名的博客，都会好好收藏且拜读。后来，我就想注册一个和我名字有点关系的域名。好的域名基本都没有希望，那就挑难听的吧，比如伟哥这样的名字。然后我就用 “www.wego.com” 去搜索，当然这么短小精悍的域名轮不到我。 接着 “www.weegoo.com”，同样也被注册了。然后就发挥我造词的功力了。 英语里面 wh 和 w 的发音是一样的。就加一个 h 试试看。“www.wheegoo.com” 果然没有被注册。然后我就把邮箱和域名都一口气注册了。先不管干啥用，占个坑再说。十多年以后总想弄个网站主页之类的东西，刚好就把这个域名给用上了。&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>关于伟哥的空间站</title>
+      <link>http://www.wheegoo.com/about/</link>
+      <pubDate>Sat, 20 Jun 2020 16:27:20 +0800</pubDate>
+      
+      <guid>http://www.wheegoo.com/about/</guid>
+      
+        <description>&lt;p&gt;好奇心让生活变得有意思！&lt;/p&gt;
+&lt;p&gt;鄙人80后老程序员，捣鼓各种Linux和另类操作系统以及各种芯片十年有五。始终兴趣盎然，不厌其烦。&lt;/p&gt;
+&lt;p&gt;好游泳，管乐乐器，读书。&lt;/p&gt;
+</description>
+      
+    </item>
+    
+  </channel>
+</rss>

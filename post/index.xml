@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 伟哥的空间站</title>
+    <link>http://www.wheegoo.com/post/</link>
+    <description>Recent content in Posts on 伟哥的空间站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 20 Jun 2020 16:45:08 +0800</lastBuildDate>
+    
+	<atom:link href="http://www.wheegoo.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First</title>
+      <link>http://www.wheegoo.com/post/first/</link>
+      <pubDate>Sat, 20 Jun 2020 16:45:08 +0800</pubDate>
+      
+      <guid>http://www.wheegoo.com/post/first/</guid>
+      <description>开博第一篇写点什么呢？ 就讲讲我这个域名的来历吧，2006年的时候，公司里面大多数人都叫我伟哥，其实我一开始听着这个名字很不爽的，怎么就和一种</description>
+    </item>
+    
+  </channel>
+</rss>

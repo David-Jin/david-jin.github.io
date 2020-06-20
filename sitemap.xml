@@ -1,0 +1,44 @@
+<?xml-stylesheet type="text/xsl" href="http://www.wheegoo.com/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://www.wheegoo.com/post/first/</loc>
+    <lastmod>2020-06-20T16:45:08+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wheegoo.com/post/</loc>
+    <lastmod>2020-06-20T16:45:08+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wheegoo.com/</loc>
+    <lastmod>2020-06-20T16:45:08+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wheegoo.com/about/</loc>
+    <lastmod>2020-06-20T16:27:20+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wheegoo.com/categories/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wheegoo.com/tags/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+</urlset>
