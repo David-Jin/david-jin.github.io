@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on 伟哥的空间站</title>
-    <link>http://www.wheegoo.com/post/</link>
-    <description>Recent content in Posts on 伟哥的空间站</description>
+    <title>读后感 on 伟哥的空间站</title>
+    <link>http://www.wheegoo.com/categories/%E8%AF%BB%E5%90%8E%E6%84%9F/</link>
+    <description>Recent content in 读后感 on 伟哥的空间站</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sun, 21 Jun 2020 09:51:07 +0800</lastBuildDate>
     
-	<atom:link href="http://www.wheegoo.com/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.wheegoo.com/categories/%E8%AF%BB%E5%90%8E%E6%84%9F/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>http://www.wheegoo.com/post/%E5%85%B3%E4%BA%8E%E5%90%B4%E5%86%9B%E8%80%81%E5%B8%88%E7%9A%84%E4%B9%A6/</guid>
       <description>我比较喜欢吴军老师的书，最早接触到吴军老师的书是《浪潮之颠》，那时候估计刚刚出版。我在当当上看到这本书的介绍，毫不犹豫的就买下了，三天功夫一</description>
-    </item>
-    
-    <item>
-      <title>第一篇</title>
-      <link>http://www.wheegoo.com/post/first/</link>
-      <pubDate>Sat, 20 Jun 2020 16:45:08 +0800</pubDate>
-      
-      <guid>http://www.wheegoo.com/post/first/</guid>
-      <description>开博第一篇写点什么呢？ 就讲讲我这个域名的来历吧，2006 年的时候，公司里面大多数人都叫我伟哥，其实我一开始听着这个名字很不爽的，怎么就和一种</description>
     </item>
     
   </channel>
