@@ -6,10 +6,40 @@
     <description>Recent content on 伟哥的空间站</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 21 Jun 2020 09:51:07 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2020 19:49:33 +0800</lastBuildDate>
     
         <atom:link href="http://www.wheegoo.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>开箱即用</title>
+      <link>http://www.wheegoo.com/post/%E5%BC%80%E7%AE%B1%E5%8D%B3%E7%94%A8/</link>
+      <pubDate>Thu, 25 Jun 2020 19:49:33 +0800</pubDate>
+      
+      <guid>http://www.wheegoo.com/post/%E5%BC%80%E7%AE%B1%E5%8D%B3%E7%94%A8/</guid>
+      
+        <description>
+&lt;link rel=&#34;stylesheet&#34; href=&#34;http://www.wheegoo.com/css/hugo-easy-gallery.css&#34; /&gt;
+&lt;div class=&#34;box&#34;&gt;
+&lt;figure  itemprop=&#34;associatedMedia&#34;
+  itemscope itemtype=&#34;http://schema.org/ImageObject&#34; &gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;http://www.wheegoo.com/image/out-of-the-box/ootb.jpg&#34; /&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;http://www.wheegoo.com/image/out-of-the-box/ootb.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;我有些开箱即用的感悟想记录下来，分两个方面来讨论：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;产品的开箱即用&lt;/li&gt;
+&lt;li&gt;技术的开箱即用&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;在书上看好很多人都讲，不要给用户太多的选择，其实用户也不知道想要什么，所以只要产品经理定义好产品就好了。这个话只能说对了一半。&lt;strong&gt;没有选择&lt;/strong&gt;是开箱即用在产品上的一种体现，我认为的开箱即用其实本质上是为了&lt;strong&gt;降低用户的心智负担&lt;/strong&gt;。在产品范畴，&amp;ldquo;选择&amp;quot;本来就是一个困难的事情，如果一个事情有5个选项，砍掉3项选择，用户的幸福感和满意度立马就会提升。把选择权给用户看似是尊重用户的选择，实质上是对用户的不负责任。为什么这样讲？ 试想本来应该产品设计人员去深度思考的事情，确定产品的规格和参数。现在把这些事情让用户在冗杂的信息中自己去辨别，这不是推卸责任又是什么？但是不是选择越少越好呢？也肯定不是。好的产品设计我觉得应该是洞悉人性的。适度的选择给予自由，多了反而迷茫。从另外一个角度讲：体会一个场景，你兴匆匆的买了一个想了好久的产品回家，急忙要打开试用，结果搞半天没有用起来。或者拿到手后，发现要看一大堆说明书，简单的操作并无法让产品工作，那种心情会有多悲催？我们设计产品时一定要有一条路径让用户简单的操作就能使得产品工作起来。等到产品工作起来后，再慢慢接受更加高级功能的折腾，大多数用户都能接受。&lt;/p&gt;
+&lt;p&gt;技术上的开箱即用就比较好理解了。举个例子更容易理解，如果有个开源项目不能以默认的配置直接跑出效果让我看到，恐怕我是不会再有兴趣去折腾这个项目了。如果出现编译错误那就更加没有耐心去排查问题了。我宁可扔掉此项目重新去选一个工程也不会去折腾一个编译就出错的工程。所以我一般做库工程，总是会把最小可用的配置全部包含。不让用户去自己一个一个折腾。或者提供一个脚本能让用户一次性把所有依赖都全部安装好。技术上同样要给我的用户提供开箱即用的体验。&lt;/p&gt;
+</description>
+      
+    </item>
     
     <item>
       <title>关于吴军老师的书</title>
