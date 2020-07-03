@@ -3,14 +3,21 @@
   
   <url>
     <loc>http://www.wheegoo.com/post/</loc>
-    <lastmod>2020-06-25T19:49:33+08:00</lastmod>
+    <lastmod>2020-06-29T22:54:31+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://www.wheegoo.com/</loc>
-    <lastmod>2020-06-25T19:49:33+08:00</lastmod>
+    <lastmod>2020-06-29T22:54:31+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wheegoo.com/post/%E5%85%B3%E4%BA%8E%E4%BC%AA%E5%B7%A5%E4%BD%9C%E8%80%85/</loc>
+    <lastmod>2020-06-29T22:54:31+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
