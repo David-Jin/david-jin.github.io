@@ -1,24 +1,44 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>伟哥的空间站</title>
-    <link>http://www.wheegoo.com/</link>
-    <description>Recent content on 伟哥的空间站</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language>
-    <lastBuildDate>Sun, 05 Jul 2020 20:39:04 +0800</lastBuildDate>
-    
-        <atom:link href="http://www.wheegoo.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>关于金钱观</title>
-      <link>http://www.wheegoo.com/post/%E5%85%B3%E4%BA%8E%E9%87%91%E9%92%B1%E8%A7%82/</link>
-      <pubDate>Sun, 05 Jul 2020 20:39:04 +0800</pubDate>
-      
-      <guid>http://www.wheegoo.com/post/%E5%85%B3%E4%BA%8E%E9%87%91%E9%92%B1%E8%A7%82/</guid>
-      
-        <description>&lt;p&gt;把吴军老师《见识》这本书中关于金钱观的金句摘录如下，温故知新：&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Wheegoo的空间站</title>
+        <link>http://www.wheegoo.com/</link>
+        <description>保持思考，一个记录我的想法的地方</description>
+        <generator>Hugo 0.89.4 https://gohugo.io/</generator>
+        
+            <language>zh-CN</language>
+        
+        
+            <managingEditor>wheegoo@gmail.com (JinWei)</managingEditor>
+        
+        
+            <webMaster>wheegoo@gmail.com (JinWei)</webMaster>
+        
+        
+            <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+        
+        <lastBuildDate>Tue, 30 Nov 2021 12:58:35 &#43;0800</lastBuildDate>
+        
+            <atom:link rel="self" type="application/rss&#43;xml" href="http://www.wheegoo.com/rss.xml" />
+        
+        
+            <item>
+                <title>关于金钱观</title>
+                <link>http://www.wheegoo.com/post/%E5%85%B3%E4%BA%8E%E9%87%91%E9%92%B1%E8%A7%82/</link>
+                <guid isPermaLink="true">http://www.wheegoo.com/post/%E5%85%B3%E4%BA%8E%E9%87%91%E9%92%B1%E8%A7%82/</guid>
+                <pubDate>Sun, 05 Jul 2020 20:39:04 &#43;0800</pubDate>
+                
+                    <author>wheegoo@gmail.com (JinWei)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;p&gt;把吴军老师《见识》这本书中关于金钱观的金句摘录如下，温故知新：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;钱是上帝存在你那里的，不是给你的，回头你要还给他的。&lt;/li&gt;
 &lt;li&gt;钱只有花出去才是你的。&lt;/li&gt;
@@ -28,17 +48,46 @@
 &lt;/ul&gt;
 &lt;p&gt;吴军老师对于金钱观中强调&lt;strong&gt;风险意识&lt;/strong&gt;确实很令人印象深刻的。由于一两次的投资成功，忘记了风险。从长期来看，一定是投资失败。&lt;em&gt;&lt;strong&gt;只要有一次失利，可能输光前面所有的盈利。&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 </description>
-      
-    </item>
-    
-    <item>
-      <title>关于伪工作者</title>
-      <link>http://www.wheegoo.com/post/%E5%85%B3%E4%BA%8E%E4%BC%AA%E5%B7%A5%E4%BD%9C%E8%80%85/</link>
-      <pubDate>Mon, 29 Jun 2020 22:54:31 +0800</pubDate>
-      
-      <guid>http://www.wheegoo.com/post/%E5%85%B3%E4%BA%8E%E4%BC%AA%E5%B7%A5%E4%BD%9C%E8%80%85/</guid>
-      
-        <description>&lt;p&gt;一封公司研发的内部邮件：&lt;/p&gt;
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="http://www.wheegoo.com/categories/%E8%AF%BB%E5%90%8E%E6%84%9F/">读后感</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="http://www.wheegoo.com/tags/%E8%AE%A4%E7%9F%A5/">认知</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>关于伪工作者</title>
+                <link>http://www.wheegoo.com/post/%E5%85%B3%E4%BA%8E%E4%BC%AA%E5%B7%A5%E4%BD%9C%E8%80%85/</link>
+                <guid isPermaLink="true">http://www.wheegoo.com/post/%E5%85%B3%E4%BA%8E%E4%BC%AA%E5%B7%A5%E4%BD%9C%E8%80%85/</guid>
+                <pubDate>Mon, 29 Jun 2020 22:54:31 &#43;0800</pubDate>
+                
+                    <author>wheegoo@gmail.com (JinWei)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;p&gt;一封公司研发的内部邮件：&lt;/p&gt;
 &lt;p&gt;当前，公司处于快速发展的阶段，很多研发人员手上在做的事情很多，但是却成果不多。&lt;/p&gt;
 &lt;p&gt;第一，我想和大家聊聊关于“伪工作者的问题”和方法论的问题。在我们这个快速发展的IT领域，很多人都面临的问题“每天的事情很多，总也做不完”。由于我们行业的属性：迭代快速，问题和需求总是不断的产生，工作中很容易失去方向感。因此善于找到最重要的工作，并优先完成它们，这成为一个很重要的工作技能。在美国硅谷的公司里面，每天完成上述的事务性工作就被叫做pseudo worker，直译就叫伪工作者。这些人每天看上去好像也很忙，做的事情也可能是公司里面存在的，但是没有产生效果。我们公司里面如果这样的研发人员多了，公司在竞争中一定会处于下风。&lt;/p&gt;
 &lt;p&gt;硅谷的公司评价员工不在他看上去有多忙，写了多少行代码，而是看他工作产生了多大的效果。否则，再忙再累都会被淘汰。 我们各级的管理者首先要站到“做什么样的事情能让公司最大获益”的高度上去，这样才能在纷繁复杂的工作中找到那些对公司帮助最大的事情去做，而不是简单的应付老板布置的任务，然后交差。每位一线研发人员要明白积极工作（而不是消极完成任务），受益最大的首先是自己。反之，由于各种原因而消极的工作，慢慢的就会不自觉的就会沦成伪工作者。表象上看，他也任劳任怨的完成任务，但是重要且有难度有影响力的工作从来都不会碰。老板问起来的时候，他会说很认真的在工作，工作量也很饱满。至于为什么重要的事情没有做，他会说时间不够。久而久之，他实际上是自己坑自己。因为随着公司的发展，这一类的人一定会被边缘化，会淘汰。&lt;/p&gt;
@@ -55,27 +104,39 @@
 &lt;/ol&gt;
 &lt;p&gt;最后，希望各位在公司高速向上发展的过程中，能跟上发展的脚步，方法和态度都同等重要，共同奋斗，共同成长！&lt;/p&gt;
 </description>
-      
-    </item>
-    
-    <item>
-      <title>开箱即用</title>
-      <link>http://www.wheegoo.com/post/%E5%BC%80%E7%AE%B1%E5%8D%B3%E7%94%A8/</link>
-      <pubDate>Thu, 25 Jun 2020 19:49:33 +0800</pubDate>
-      
-      <guid>http://www.wheegoo.com/post/%E5%BC%80%E7%AE%B1%E5%8D%B3%E7%94%A8/</guid>
-      
-        <description>
-&lt;link rel=&#34;stylesheet&#34; href=&#34;http://www.wheegoo.com/css/hugo-easy-gallery.css&#34; /&gt;
-&lt;div class=&#34;box&#34;&gt;
-&lt;figure  itemprop=&#34;associatedMedia&#34;
-  itemscope itemtype=&#34;http://schema.org/ImageObject&#34; &gt;
-    &lt;div class=&#34;img&#34;&gt;
-      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;http://www.wheegoo.com/image/out-of-the-box/ootb.jpg&#34; /&gt;
-    &lt;/div&gt;
-    &lt;a href=&#34;http://www.wheegoo.com/image/out-of-the-box/ootb.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-  &lt;/figure&gt;
-&lt;/div&gt;
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="http://www.wheegoo.com/categories/%E8%AF%BB%E5%90%8E%E6%84%9F/">读后感</category>
+                                
+                            
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>开箱即用</title>
+                <link>http://www.wheegoo.com/post/%E5%BC%80%E7%AE%B1%E5%8D%B3%E7%94%A8/</link>
+                <guid isPermaLink="true">http://www.wheegoo.com/post/%E5%BC%80%E7%AE%B1%E5%8D%B3%E7%94%A8/</guid>
+                <pubDate>Thu, 25 Jun 2020 19:49:33 &#43;0800</pubDate>
+                
+                    <author>wheegoo@gmail.com (JinWei)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;figure&gt;&lt;img src=&#34;http://www.wheegoo.com/image/out-of-the-box/ootb.jpg&#34;/&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;我有些开箱即用的感悟想记录下来，分两个方面来讨论：&lt;/p&gt;
 &lt;ol&gt;
@@ -84,99 +145,108 @@
 &lt;/ol&gt;
 &lt;h5 id=&#34;产品开箱即用&#34;&gt;产品开箱即用&lt;/h5&gt;
 &lt;p&gt;在书上看好很多人都讲，不要给用户太多的选择，其实用户也不知道想要什么，所以只要产品经理定义好产品就好了。这个话只能说对了一半。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;没有选择&lt;/strong&gt;是开箱即用在产品上的一种体现，我认为的开箱即用其实本质上是为了&lt;strong&gt;降低用户的心智负担&lt;/strong&gt;。在产品范畴，&amp;ldquo;选择&amp;quot;本来就是一个困难的事情，如果一个事情有5个选项，砍掉3项选择，用户的幸福感和满意度立马就会提升。把选择权给用户看似是尊重用户的选择，实质上是对用户的不负责任。为什么这样讲？ 试想本来应该产品设计人员去深度思考的事情，确定产品的规格和参数。现在把这些事情让用户在冗杂的信息中自己去辨别，这不是推卸责任又是什么？但是不是选择越少越好呢？也肯定不是。好的产品设计我觉得应该是洞悉人性的。适度的选择给予自由，多了反而迷茫。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;没有选择&lt;/strong&gt;是开箱即用在产品上的一种体现，我认为的开箱即用其实本质上是为了&lt;strong&gt;降低用户的心智负担&lt;/strong&gt;。在产品范畴，&amp;quot;选择&amp;quot;本来就是一个困难的事情，如果一个事情有5个选项，砍掉3项选择，用户的幸福感和满意度立马就会提升。把选择权给用户看似是尊重用户的选择，实质上是对用户的不负责任。为什么这样讲？ 试想本来应该产品设计人员去深度思考的事情，确定产品的规格和参数。现在把这些事情让用户在冗杂的信息中自己去辨别，这不是推卸责任又是什么？但是不是选择越少越好呢？也肯定不是。好的产品设计我觉得应该是洞悉人性的。适度的选择给予自由，多了反而迷茫。&lt;/p&gt;
 &lt;p&gt;从另外一个角度讲：体会一个场景，你兴匆匆的买了一个想了好久的产品回家，急忙要打开试用，结果搞半天没有用起来。或者拿到手后，发现要看一大堆说明书，简单的操作并无法让产品工作，那种心情会有多悲催？我们设计产品时一定要有一条路径让用户简单的操作就能使得产品工作起来。等到产品工作起来后，再慢慢接受更加高级功能的折腾，大多数用户都能接受。总结一下，产品在用户选择和用户使用前的准备必须要降低到最小。&lt;/p&gt;
 &lt;h5 id=&#34;技术开箱即用&#34;&gt;技术开箱即用&lt;/h5&gt;
 &lt;p&gt;技术上的开箱即用就比较好理解了。举个例子更容易理解，如果有个开源项目不能以默认的配置直接跑出效果让我看到，恐怕我是不会再有兴趣去折腾这个项目了。如果出现编译错误那就更加没有耐心去排查问题了。我宁可扔掉此项目重新去选一个工程也不会去折腾一个编译就出错的工程。所以我一般做库工程，总是会把最小可用的配置全部包含。不让用户去自己一个一个折腾。或者提供一个脚本能让用户一次性把所有依赖都全部安装好。技术上同样要给我的用户提供开箱即用的体验。&lt;/p&gt;
 </description>
-      
-    </item>
-    
-    <item>
-      <title>关于吴军老师的书</title>
-      <link>http://www.wheegoo.com/post/%E5%85%B3%E4%BA%8E%E5%90%B4%E5%86%9B%E8%80%81%E5%B8%88%E7%9A%84%E4%B9%A6/</link>
-      <pubDate>Sun, 21 Jun 2020 09:51:07 +0800</pubDate>
-      
-      <guid>http://www.wheegoo.com/post/%E5%85%B3%E4%BA%8E%E5%90%B4%E5%86%9B%E8%80%81%E5%B8%88%E7%9A%84%E4%B9%A6/</guid>
-      
-        <description>
-&lt;link rel=&#34;stylesheet&#34; href=&#34;http://www.wheegoo.com/css/hugo-easy-gallery.css&#34; /&gt;
-&lt;div class=&#34;box&#34;&gt;
-&lt;figure  itemprop=&#34;associatedMedia&#34;
-  itemscope itemtype=&#34;http://schema.org/ImageObject&#34; &gt;
-    &lt;div class=&#34;img&#34;&gt;
-      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;http://www.wheegoo.com/image/WuJunBook/cover.jpeg&#34; /&gt;
-    &lt;/div&gt;
-    &lt;a href=&#34;http://www.wheegoo.com/image/WuJunBook/cover.jpeg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-  &lt;/figure&gt;
-&lt;/div&gt;
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="http://www.wheegoo.com/categories/%E5%BF%83%E5%BE%97/">心得</category>
+                                
+                            
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>关于吴军老师的书</title>
+                <link>http://www.wheegoo.com/post/%E5%85%B3%E4%BA%8E%E5%90%B4%E5%86%9B%E8%80%81%E5%B8%88%E7%9A%84%E4%B9%A6/</link>
+                <guid isPermaLink="true">http://www.wheegoo.com/post/%E5%85%B3%E4%BA%8E%E5%90%B4%E5%86%9B%E8%80%81%E5%B8%88%E7%9A%84%E4%B9%A6/</guid>
+                <pubDate>Sun, 21 Jun 2020 09:51:07 &#43;0800</pubDate>
+                
+                    <author>wheegoo@gmail.com (JinWei)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;figure&gt;&lt;img src=&#34;http://www.wheegoo.com/image/WuJunBook/cover.jpeg&#34;/&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;我比较喜欢吴军老师的书，最早接触到吴军老师的书是《浪潮之颠》，那时候估计刚刚出版。我在当当上看到这本书的介绍，毫不犹豫的就买下了，三天功夫一口气看完。 不得不佩服吴军老师行文的功力，阅读感受非常流畅，就像一位讲故事的人面对面的在和你聊天。吴军老师的视野十分宽阔，把整个硅谷的兴衰史娓娓道来。颠覆式创新早在美国50年代就已经开始了，对 IT 从业人员有很大的启发。&lt;/p&gt;
 &lt;p&gt;接着又买了他的《硅谷之谜》，书虽然不厚三百页左右。但是书中的几个观点颠覆我之前对管理的认知。例如“工程师等级”理论，工程师划分成五等，每一等之间的差距是一个数量级。重要岗位必须花重金请顶尖高手。这个理念对我后面在招聘软件开发人员上有莫大的帮助，以至于我们团队每个人都传阅了一遍。书中还提到，现在的公司已经从上个世纪的提前规划转变成实时负反馈的系统。这是意识形态上的转换。&lt;/p&gt;
 &lt;p&gt;然后又买了《大学之路》和《文明之光》，《大学之路》书有上下册，介绍各个美国大学的思想精神，确实和国内的教学理念相差太大。现在国内条件好起来了，很多方面也可以学习美国学的像一点。但是其中的软实力恐怕不是二十年内能马上学到的。《文明之光》估计花了吴军老师很多时间，整整四册把整个东西方的历史都讲了一遍。我利用中午休息时间断断续续的看。同样一贯的行文非常流畅。&lt;/p&gt;
 &lt;p&gt;最近，在网上看到吴军老师出了新书 “认知三部曲”，&lt;strong&gt;《见识》、《态度》、《格局》&lt;/strong&gt;  都买了。这套书确实有营养。以前国外有个人提过一个观点叫做 “刻意练习”，有的人虽然读书无数，但是却不见什么长进，或者长进太慢。 有些人大字不识几个，却能从寥寥信息中获取养分。究其原因，读书读书，书里面写的都是对的，但不是你的。没有反思、没有咀嚼的看书，只是一个人肉翻书机。 我从小就喜欢看书，但是长进不大，上面其实说的就是我的少年时代。 不光是我，大多数人读书不能算做读书，只能算翻书。 回想原因：第一不会选书，小时侯认为能印出来的东西都是好的； 第二不会反思，我读了这本书对我产生什么样的影响？ 常常看完书后觉得很有成就感：“又看完了一本书”。 所以这也是我写博客的另外一个原因，把领悟到的东西记录下来，时常能方便的自己看看。书不在看多少，而在领悟后对自己产生多少影响，如果没有不如不读。&lt;/p&gt;
 </description>
-      
-    </item>
-    
-    <item>
-      <title>第一篇</title>
-      <link>http://www.wheegoo.com/post/first/</link>
-      <pubDate>Sat, 20 Jun 2020 16:45:08 +0800</pubDate>
-      
-      <guid>http://www.wheegoo.com/post/first/</guid>
-      
-        <description>
-&lt;link rel=&#34;stylesheet&#34; href=&#34;http://www.wheegoo.com/css/hugo-easy-gallery.css&#34; /&gt;
-&lt;div class=&#34;box&#34;&gt;
-&lt;figure  itemprop=&#34;associatedMedia&#34;
-  itemscope itemtype=&#34;http://schema.org/ImageObject&#34; &gt;
-    &lt;div class=&#34;img&#34;&gt;
-      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;http://www.wheegoo.com/image/first/pfizer.jpg&#34; /&gt;
-    &lt;/div&gt;
-    &lt;a href=&#34;http://www.wheegoo.com/image/first/pfizer.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-  &lt;/figure&gt;
-&lt;/div&gt;
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="http://www.wheegoo.com/categories/%E8%AF%BB%E5%90%8E%E6%84%9F/">读后感</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="http://www.wheegoo.com/tags/%E8%AF%BB%E4%B9%A6/">读书</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>第一篇</title>
+                <link>http://www.wheegoo.com/post/first/</link>
+                <guid isPermaLink="true">http://www.wheegoo.com/post/first/</guid>
+                <pubDate>Sat, 20 Jun 2020 16:45:08 &#43;0800</pubDate>
+                
+                    <author>wheegoo@gmail.com (JinWei)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;figure&gt;&lt;img src=&#34;http://www.wheegoo.com/image/first/pfizer.jpg&#34;/&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;开博第一篇写点什么呢？&lt;/p&gt;
 &lt;p&gt;就讲讲我这个域名的来历吧，2006 年的时候，公司里面大多数人都叫我伟哥，其实我一开始听着这个名字很不爽的，怎么就和一种药联系起来了呢？我屡次想打破这个困局，无奈天天被人这样叫，想让大家改口都改不过来，叫着叫着，貌似还挺顺口的。算了，形势比人强，就这样作为了我的绰号。&lt;/p&gt;
 &lt;p&gt;那个时候博客还是个稀奇的东西，尤其看到制作精良和独立域名的博客，都会好好收藏且拜读。后来，我就想注册一个和我名字有点关系的域名。好的域名基本都没有希望，那就挑难听的吧，比如伟哥这样的名字。然后我就用 “www.wego.com” 去搜索，当然这么短小精悍的域名轮不到我。 接着 “www.weegoo.com”，同样也被注册了。然后就发挥我造词的功力了。 英语里面 wh 和 w 的发音是一样的。就加一个 h 试试看。“www.wheegoo.com” 果然没有被注册。然后我就把邮箱和域名都一口气注册了。先不管干啥用，占个坑再说。十多年以后总想弄个网站主页之类的东西，刚好就把这个域名给用上了。&lt;/p&gt;
 </description>
-      
-    </item>
-    
-    <item>
-      <title>关于伟哥的空间站</title>
-      <link>http://www.wheegoo.com/about/</link>
-      <pubDate>Sat, 20 Jun 2020 16:27:20 +0800</pubDate>
-      
-      <guid>http://www.wheegoo.com/about/</guid>
-      
-        <description>&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;好奇心让生活变得有意思！&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;这不是哪个哲人说的，就是鄙人总结的，所以让这句话来提纲这个空间站的主题是比较合适的。&lt;/p&gt;
-&lt;p&gt;鄙人乃 80 后的老程序员，居于西湖畔，好捣鼓各种 Linux 和另类操作系统以及各种 Soc 芯片，十载有五，始终兴趣盎然，乐此不疲，自得其乐。&lt;/p&gt;
-&lt;p&gt;年少时沉迷折腾无线电制作，稍致荒废学业。 幸得高人指点，才不至远离大道。 青年时亦参与开源社区贡献，虽贡献无多，但颇有开源精神。临近不惑之年，稍有感悟，常将心得记录在案，时习之。&lt;/p&gt;
-&lt;p&gt;好游泳，奏乐器，喜读书。&lt;/p&gt;
-
-&lt;link rel=&#34;stylesheet&#34; href=&#34;http://www.wheegoo.com/css/hugo-easy-gallery.css&#34; /&gt;
-&lt;div class=&#34;box&#34;&gt;
-&lt;figure  itemprop=&#34;associatedMedia&#34;
-  itemscope itemtype=&#34;http://schema.org/ImageObject&#34; &gt;
-    &lt;div class=&#34;img&#34;&gt;
-      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;http://www.wheegoo.com/image/about/me.jpeg&#34; alt=&#34;2019年1月摄于圣莫妮卡海滩&#34;/&gt;
-    &lt;/div&gt;
-    &lt;a href=&#34;http://www.wheegoo.com/image/about/me.jpeg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-      &lt;figcaption&gt;
-          &lt;p&gt;2019年1月摄于圣莫妮卡海滩&lt;/p&gt;
-      &lt;/figcaption&gt;
-  &lt;/figure&gt;
-&lt;/div&gt;
-
-</description>
-      
-    </item>
-    
-  </channel>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+    </channel>
 </rss>

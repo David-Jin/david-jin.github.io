@@ -1,2 +1,1 @@
 User-agent: *
-Sitemap: http://www.wheegoo.com/sitemap.xml
