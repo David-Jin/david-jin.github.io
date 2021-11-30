@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">Wheegoo的空间站</title>
     <subtitle type="html">保持思考，一个记录我的想法的地方</subtitle>
-    <updated>2021-11-30T15:06:14&#43;08:00</updated>
+    <updated>2021-11-30T15:52:16&#43;08:00</updated>
     <id>http://www.wheegoo.com/</id>
     <link rel="alternate" type="text/html" href="http://www.wheegoo.com/" />
     <link rel="self" type="application/atom&#43;xml" href="http://www.wheegoo.com/atom.xml" />
@@ -31,7 +31,8 @@
     
     </summary>
             
-                <content type="html">&lt;p&gt;把吴军老师《见识》这本书中关于金钱观的金句摘录如下，温故知新：&lt;/p&gt;
+                <content type="html">&lt;p&gt;&lt;img src=&#34;http://www.wheegoo.com/image/money/money.jpg&#34; alt=&#34;money.jpg&#34;&gt;
+把吴军老师《见识》这本书中关于金钱观的金句摘录如下，温故知新：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;钱是上帝存在你那里的，不是给你的，回头你要还给他的。&lt;/li&gt;
 &lt;li&gt;钱只有花出去才是你的。&lt;/li&gt;
