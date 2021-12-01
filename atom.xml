@@ -3,8 +3,8 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">Wheegoo 的空间站</title>
-    <subtitle type="html">保持思考，一个记录我的想法的地方</subtitle>
-    <updated>2021-11-30T17:15:48&#43;08:00</updated>
+    <subtitle type="html">一个记录我的想法的地方</subtitle>
+    <updated>2021-12-01T12:06:27&#43;08:00</updated>
     <id>http://www.wheegoo.com/</id>
     <link rel="alternate" type="text/html" href="http://www.wheegoo.com/" />
     <link rel="self" type="application/atom&#43;xml" href="http://www.wheegoo.com/atom.xml" />
@@ -27,87 +27,69 @@
                     <uri>https://www.wheegoo.com/</uri>
                     <email>wheegoo@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">软件设计的好坏评判标准是复用性。但是实际开发中最大的困难就是需求的多变，而变化……
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">软件设计的好坏评判标准之一是复用性。 变化与稳定 实际开发中最大的困难就是需求的多……
     
     </summary>
             
-                <content type="html">&lt;p&gt;&lt;img src=&#34;http://www.wheegoo.com/image/design-pattern/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B8%AD%E6%96%87%E7%89%88%E5%B0%81%E9%9D%A2.jpg&#34; alt=&#34;设计模式中文版封面.jpg&#34;&gt;
-软件设计的好坏评判标准是复用性。但是实际开发中最大的困难就是需求的多变，而变化是软件复用的天敌。面向对象的设计最大的优势是抵御变化。注意不是消灭变化，&lt;strong&gt;而是把变化像小兔子一样锁在笼子里限制起来。&lt;/strong&gt; 设计模式是软件设计中常见问题的典型解决方案。它们就像能根据需求进行调整的预制蓝图，可用于解决代码中反复出现的设计问题。设计模式与方法或库的使用方式不同，你很难直接在自己的程序中套用某个设计模式。 模式并不是一段特定的代码，而是解决特定问题的一般性理念。 你可以根据模式来实现符合自己程序实际所需的解决方案。最佳的实践设计模式的方法是重构到模式（Refactory to Patterns）。当然如果你非常熟悉各种模式的应用场景，也可以一上来就按照适当的设计模式去开发。&lt;/p&gt;
-&lt;p&gt;1994年，GoF在他们的书中总结了23种设计模式，此后人们又陆续发现了几十种面向对象的设计模式，“模式方法” 开始在其他程序开发领域中流行起来。 如今，在面向对象设计领域之外，人们也提出了许多其他的模式。设计模式是针对软件设计中常见问题的工具箱，其中的工具就是各种经过实践验证的解决方案。无疑这些设计模式提高了在团队中的沟通效率，我们只要说在这种情况下，你使用工厂模式就可以了，不需要过多的解释。 但是模式不是金科玉律，千万不要为了用模式而去套模式。在实际项目中应该实事求是的对项目进行调整。况且，模式也是会过时。以前广泛使用的模式可能在新一代的语言中内化为语言的设计理念。&lt;/p&gt;
+                <content type="html">&lt;p&gt;&lt;img src=&#34;http://www.wheegoo.com/image/design-pattern/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B8%AD%E6%96%87%E7%89%88%E5%B0%81%E9%9D%A2.jpg&#34; alt=&#34;设计模式中文版封面.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;软件设计的好坏评判标准之一是&lt;strong&gt;复用性&lt;/strong&gt;。&lt;/p&gt;
+&lt;h4 id=&#34;变化与稳定&#34;&gt;变化与稳定&lt;/h4&gt;
+&lt;p&gt;实际开发中最大的困难就是需求的多变，而变化是软件复用的天敌。面向对象的设计最大的优势是“抵御变化”，注意不是“消灭变化”，&lt;strong&gt;而是把变化像小兔子一样锁在笼子里限制起来。&lt;/strong&gt; 设计模式是软件设计中常见问题的典型解决方案。它们就像能根据需求进行调整的预制蓝图，可用于解决代码中反复出现的设计问题。设计模式与方法或库的使用方式不同，你很难直接在自己的程序中套用某个设计模式。 模式并不是一段特定的代码，而是解决特定问题的一般性理念。 你可以根据模式来实现符合自己程序实际所需的解决方案，所以最佳的实践设计模式的方法是重构到模式（Refactory to Patterns）。当然如果你非常熟悉各种模式的应用场景，也可以一上来就按照适当的设计模式去开发。&lt;/p&gt;
+&lt;p&gt;1994年，GoF在他们的书中总结了23种设计模式，此后人们又陆续发现了几十种面向对象的设计模式，“模式方法” 开始在其他程序开发领域中流行起来。 如今，在面向对象设计领域之外，人们也提出了许多其它的模式。设计模式是针对软件设计中常见问题的工具箱，其中的工具就是各种经过实践验证的解决方案。无疑这些设计模式提高了在团队中的沟通效率，我们只要说在这种情况下，你使用工厂模式就可以了，不需要过多的解释。 但是模式不是金科玉律，千万不要为了用模式而去套模式。在实际项目中应该实事求是的对项目进行调整。况且，模式也是会过时。以前广泛使用的模式可能在新一代的语言中内化为语言的设计理念。用设计模式的时候最重要的是分清工程里哪些是变化的，哪些是不变的。把变化的那部分用设计模式的方案来改造一下。试想两个极端：假如我们的工程里面所有模块都是变化的，那用什么设计模式都救不了你。再譬如，我们的工程里所有模块都是稳定的，那你也没有必要去用设计模式了，直接写代码就完事了。因此，分清变与不变最重要，设计模式主要着力点就是那些变化的地方。&lt;/p&gt;
+&lt;h4 id=&#34;八大设计原则&#34;&gt;八大设计原则&lt;/h4&gt;
 &lt;p&gt;&lt;strong&gt;比模式更重要的是设计原则，下面介绍一下八大原则：&lt;/strong&gt;&lt;/p&gt;
-&lt;blockquote&gt;
 &lt;ol&gt;
-&lt;li&gt;依赖倒置原则（DIP）&lt;/li&gt;
-&lt;/ol&gt;
+&lt;li&gt;依赖倒置原则（DIP）
 &lt;ul&gt;
 &lt;li&gt;高层模块（稳定）不应该依赖低层模块（变化），二者都应该依赖抽象（稳定）。&lt;/li&gt;
 &lt;li&gt;抽象（稳定）不应该依赖于实现细节（变化），实现细节应该依赖于抽象（稳定）。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;ol start=&#34;2&#34;&gt;
-&lt;li&gt;开放封闭原则（OCP）&lt;/li&gt;
-&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;开放封闭原则（OCP）
 &lt;ul&gt;
 &lt;li&gt;对扩展开放，对更改封闭。&lt;/li&gt;
 &lt;li&gt;类模块应该是可扩展的，但是不可修改。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;ol start=&#34;3&#34;&gt;
-&lt;li&gt;单一职责原则（SRP）&lt;/li&gt;
-&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;单一职责原则（SRP）
 &lt;ul&gt;
 &lt;li&gt;一个类应该仅有一个引起它变化的原因。&lt;/li&gt;
 &lt;li&gt;变化的方向隐含着类的责任。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;ol start=&#34;4&#34;&gt;
-&lt;li&gt;里氏替换原则（LSP）&lt;/li&gt;
-&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;里氏替换原则（LSP）
 &lt;ul&gt;
 &lt;li&gt;子类必须能够替换它们的基类(IS-A)。&lt;/li&gt;
 &lt;li&gt;继承表达类型抽象。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;ol start=&#34;5&#34;&gt;
-&lt;li&gt;接口隔离原则（ISP）&lt;/li&gt;
-&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;接口隔离原则（ISP）
 &lt;ul&gt;
 &lt;li&gt;不应该强迫客户程序依赖它们不用的方法。&lt;/li&gt;
 &lt;li&gt;接口应该小而完备。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;ol start=&#34;6&#34;&gt;
-&lt;li&gt;优先使用对象组合，而不是类继承&lt;/li&gt;
-&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;优先使用对象组合，而不是类继承
 &lt;ul&gt;
 &lt;li&gt;类继承通常为“白箱复用”，对象组合通常为“黑箱复用”。&lt;/li&gt;
 &lt;li&gt;继承在某种程度上破坏了封装性，子类父类耦合度高，而对象组合则只要求被组合的对象具有良好定义的接口，耦合度低。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;ol start=&#34;7&#34;&gt;
-&lt;li&gt;封装变化点&lt;/li&gt;
-&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;封装变化点
 &lt;ul&gt;
 &lt;li&gt;使用封装来创建对象之间的分界层，让设计者可以在分界层的一侧进行修改，而不会对另一侧产生不良的影响，从而实现层次间的松耦合。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;ol start=&#34;8&#34;&gt;
-&lt;li&gt;针对接口编程，而不是针对实现编程&lt;/li&gt;
-&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;针对接口编程，而不是针对实现编程
 &lt;ul&gt;
 &lt;li&gt;不将变量类型声明为某个特定的具体类，而是声明为某个接口。&lt;/li&gt;
 &lt;li&gt;客户程序无需获知对象的具体类型，只需要知道对象所具有的接口。&lt;/li&gt;
 &lt;li&gt;减少系统中各部分的依赖关系，从而实现“高内聚、松耦合”的类型设计方案。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;你可以忘记所有的设计模式，但是设计的原则必须牢记于心。 所有的模式都是对着这八条原则，在不同的场景下推演出来的。
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;最重要的事情&#34;&gt;最重要的事情&lt;/h4&gt;
+&lt;p&gt;你可以忘记所有的设计模式，但是&lt;strong&gt;设计原则&lt;/strong&gt;必须牢记于心。 所有的模式都是对着这八条原则，在不同的场景下推演出来的。
 后面几个章节将介绍一下 C 语言开发中常用的设计模式，注意不是 C++ 语言。C 语言同样可以做到面向对象设计。只不过需要开发者自己做一些基础设施。&lt;/p&gt;
 </content>
             
