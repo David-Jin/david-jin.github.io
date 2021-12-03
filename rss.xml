@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Wed, 01 Dec 2021 12:06:27 &#43;0800</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 20:42:05 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="http://www.wheegoo.com/rss.xml" />
         
@@ -41,10 +41,10 @@
                     <description>&lt;p&gt;&lt;img src=&#34;http://www.wheegoo.com/image/design-pattern/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B8%AD%E6%96%87%E7%89%88%E5%B0%81%E9%9D%A2.jpg&#34; alt=&#34;设计模式中文版封面.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;软件设计的好坏评判标准之一是&lt;strong&gt;复用性&lt;/strong&gt;。&lt;/p&gt;
 &lt;h4 id=&#34;变化与稳定&#34;&gt;变化与稳定&lt;/h4&gt;
-&lt;p&gt;实际开发中最大的困难就是需求的多变，而变化是软件复用的天敌。面向对象的设计最大的优势是“抵御变化”，注意不是“消灭变化”，&lt;strong&gt;而是把变化像小兔子一样锁在笼子里限制起来。&lt;/strong&gt; 设计模式是软件设计中常见问题的典型解决方案。它们就像能根据需求进行调整的预制蓝图，可用于解决代码中反复出现的设计问题。设计模式与方法或库的使用方式不同，你很难直接在自己的程序中套用某个设计模式。 模式并不是一段特定的代码，而是解决特定问题的一般性理念。 你可以根据模式来实现符合自己程序实际所需的解决方案，所以最佳的实践设计模式的方法是重构到模式（Refactory to Patterns）。当然如果你非常熟悉各种模式的应用场景，也可以一上来就按照适当的设计模式去开发。&lt;/p&gt;
-&lt;p&gt;1994年，GoF在他们的书中总结了23种设计模式，此后人们又陆续发现了几十种面向对象的设计模式，“模式方法” 开始在其他程序开发领域中流行起来。 如今，在面向对象设计领域之外，人们也提出了许多其它的模式。设计模式是针对软件设计中常见问题的工具箱，其中的工具就是各种经过实践验证的解决方案。无疑这些设计模式提高了在团队中的沟通效率，我们只要说在这种情况下，你使用工厂模式就可以了，不需要过多的解释。 但是模式不是金科玉律，千万不要为了用模式而去套模式。在实际项目中应该实事求是的对项目进行调整。况且，模式也是会过时。以前广泛使用的模式可能在新一代的语言中内化为语言的设计理念。用设计模式的时候最重要的是分清工程里哪些是变化的，哪些是不变的。把变化的那部分用设计模式的方案来改造一下。试想两个极端：假如我们的工程里面所有模块都是变化的，那用什么设计模式都救不了你。再譬如，我们的工程里所有模块都是稳定的，那你也没有必要去用设计模式了，直接写代码就完事了。因此，分清变与不变最重要，设计模式主要着力点就是那些变化的地方。&lt;/p&gt;
+&lt;p&gt;实际开发中最大的困难就是需求的多变，而变化是软件复用的天敌。面向对象的设计最大的优势是“抵御变化”，注意不是“消灭变化”，&lt;strong&gt;而是把变化像小兔子一样锁在笼子里限制起来。&lt;/strong&gt; 设计模式是软件设计中常见问题的典型解决方案。它们就像能根据需求进行调整的预制蓝图，可用于解决代码中反复出现的设计问题。&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;http://www.wheegoo.com/post/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B8%80/#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; 设计模式与方法或库的使用方式不同，你很难直接在自己的程序中套用某个设计模式。 模式并不是一段特定的代码，而是解决特定问题的一般性理念。 你可以根据模式来实现符合自己程序实际所需的解决方案，所以最佳的实践设计模式的方法是重构到模式（Refactory to Patterns）。当然如果你非常熟悉各种模式的应用场景，也可以一上来就按照适当的设计模式去开发。&lt;/p&gt;
+&lt;p&gt;1994年，GoF在他们的书中总结了23种设计模式，此后人们又陆续发现了几十种面向对象的设计模式，“模式方法” 开始在其他程序开发领域中流行起来。 如今，在面向对象设计领域之外，人们也提出了许多其它的模式。设计模式是针对软件设计中常见问题的工具箱，其中的工具就是各种经过实践验证的解决方案。无疑这些设计模式提高了在团队中的沟通效率，我们只要说在这种情况下，你使用工厂模式就可以了，不需要过多的解释。 但是模式不是金科玉律，千万不要为了用模式而去套模式。在实际项目中应该实事求是的对项目进行调整。况且，模式也是会过时。以前广泛使用的模式可能在新一代的语言中内化为语言的设计理念。用设计模式的时候最重要的是分清工程里哪些是变化的，哪些是不变的。把变化的那部分用设计模式的方案来改造一下。试想两个极端：假如我们的工程里面所有模块都是变化的，那用什么设计模式都救不了你。再譬如，我们的工程里所有模块都是稳定的，那你也没有必要去用设计模式了，直接写代码就完事了。&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;http://www.wheegoo.com/post/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B8%80/#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; 因此，分清变与不变最重要，设计模式主要着力点就是那些变化的地方。&lt;/p&gt;
 &lt;h4 id=&#34;八大设计原则&#34;&gt;八大设计原则&lt;/h4&gt;
-&lt;p&gt;&lt;strong&gt;比模式更重要的是设计原则，下面介绍一下八大原则：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;比模式更重要的是设计原则，下面介绍一下八大原则：&lt;/strong&gt; &lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;http://www.wheegoo.com/post/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B8%80/#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;依赖倒置原则（DIP）
 &lt;ul&gt;
@@ -95,9 +95,147 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
+&lt;h4 id=&#34;二十三个设计模式&#34;&gt;二十三个设计模式&lt;/h4&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;模式名称&lt;/th&gt;
+&lt;th&gt;应用场景&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;模板方法模式&lt;/td&gt;
+&lt;td&gt;常用于框架设计，例如 Windows 的 MFC&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;策略模式&lt;/td&gt;
+&lt;td&gt;代码中如果if else 很多的情况下考虑用这个模式&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;观察者模式&lt;/td&gt;
+&lt;td&gt;如果一个事件发生后，需要很多对象都能对此作出响应，则考虑观察者模式&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;装饰模式&lt;/td&gt;
+&lt;td&gt;动态（组合）地给一个对象增加一些额外的职责&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;桥模式&lt;/td&gt;
+&lt;td&gt;将抽象部分(业务功能)与实现部分(平台实现)分离，使它们都可以独立地变化&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;工厂方法&lt;/td&gt;
+&lt;td&gt;提供一种 “封装机制” 来避免客户程序和这种 “具体对象创建工作” 的紧耦合&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;抽象工厂&lt;/td&gt;
+&lt;td&gt;提供一个接口，让该接口负责创建一系列 “相关或者相互依赖的对象”，无需指定它们具体的类&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;构建者模式&lt;/td&gt;
+&lt;td&gt;Builder 模式主要用于 “分步骤构建一个复杂的对象”。在这其中 “分步骤” 是一个稳定的算法，而复杂对象的各个部分则经常变化&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;单件模式&lt;/td&gt;
+&lt;td&gt;软件系统中，有些特殊的类必须保证它们在系统中只存在一个实例，才能确保它们的逻辑正确性，以及良好的效率&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;享元模式&lt;/td&gt;
+&lt;td&gt;运用共享技术有效的支持大量细粒度的对象&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;门面模式&lt;/td&gt;
+&lt;td&gt;为子系统中一组接口提供一致（稳定）的界面，facade模式定义了一个高层接口，这个接口使得这个子系统更容易的复用&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;代理模式&lt;/td&gt;
+&lt;td&gt;为其他对象提供一种代理以控制（隔离）对这个对象的访问&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;适配器模式&lt;/td&gt;
+&lt;td&gt;将一个类的接口转换成客户希望的另一个接口，一般用在新老模块共同复用的情况&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;中介模式&lt;/td&gt;
+&lt;td&gt;多个对象相互关联交互，对象之间维持一个复杂的引用关系。这种情况下，使用一种中介对象来管理对象的关联关系，避免紧耦合关系&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;状态模式&lt;/td&gt;
+&lt;td&gt;出现需要状态机的场景，此模式与策略模式有点相似&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;备忘录&lt;/td&gt;
+&lt;td&gt;此模式把对象的内部状态存储下来，由于现代语言都提供序列化的特性，此模式已过时&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;组合模式&lt;/td&gt;
+&lt;td&gt;将对象组合成树形结构以表示 “部分/整体” 的层次结构，使得用户对单个对象和组合对象的使用具有一致性。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;迭代器&lt;/td&gt;
+&lt;td&gt;顺序访问聚合对象中的各个元素，而又不暴露该对象的内部表示。此模式现在已经被泛型编程中的迭代器取代了。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;职责链模式&lt;/td&gt;
+&lt;td&gt;当某种请求发生时，需要多个模块对此请求作出处理，把各个模块串成链表，依次处理该请求&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;命令模式&lt;/td&gt;
+&lt;td&gt;将一个请求（行为）封装为一个对象，从而使你可用不同的请求对客户进行参数化，对请求排队或记录请求日志，以及支持可撤销操作。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;访问器模式&lt;/td&gt;
+&lt;td&gt;某些类层次结构中需要常常要增加新的行为方法，如果直接在基类中修改，会给子类增加严重负担。 运行时透明的为各层次结构上的各个类添加新操作&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;解释器模式&lt;/td&gt;
+&lt;td&gt;某一个特定领域的问题比较复杂，将特定领域的问题表达为某个语法规则下的句子，然后构建一个解释器来解释句子，从而达到解决问题的目的&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4 id=&#34;重构技法&#34;&gt;重构技法&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;静态转动态&lt;/li&gt;
+&lt;li&gt;早绑定转晚绑定&lt;/li&gt;
+&lt;li&gt;继承转组合&lt;/li&gt;
+&lt;li&gt;编译时依赖转运行时依赖&lt;/li&gt;
+&lt;li&gt;紧耦合转松耦合&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;什么时候不用模式&#34;&gt;什么时候不用模式&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;代码可读性很差时（这时应该首先改善代码的可读性，用模式救不了你，运用设计模式是在可读性问题解决后的事情）&lt;/li&gt;
+&lt;li&gt;需求理解很浅时&lt;/li&gt;
+&lt;li&gt;变化没有显现时 （不要提前过度设计，等到变化的方向明确时，设计模式才不会用错）&lt;/li&gt;
+&lt;li&gt;不是系统的关键依赖点&lt;/li&gt;
+&lt;li&gt;项目没有复用价值时 （一般外包公司的项目都是这种类型，所以外包公司的开发人员不关心设计模式）&lt;/li&gt;
+&lt;li&gt;项目即将发布时 （设计模式是为了更好的维护代码，没有必要在发布前还引入未知bug）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;经验之谈&#34;&gt;经验之谈&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;不要为了模式而模式&lt;/li&gt;
+&lt;li&gt;关注抽象类和接口&lt;/li&gt;
+&lt;li&gt;理清变化点和稳定点&lt;/li&gt;
+&lt;li&gt;审视依赖关系&lt;/li&gt;
+&lt;li&gt;要有 Framework 和 Application 的区分思维&lt;/li&gt;
+&lt;li&gt;良好的设计是演化的结果&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h4 id=&#34;最重要的事情&#34;&gt;最重要的事情&lt;/h4&gt;
 &lt;p&gt;你可以忘记所有的设计模式，但是&lt;strong&gt;设计原则&lt;/strong&gt;必须牢记于心。 所有的模式都是对着这八条原则，在不同的场景下推演出来的。
+所有的模式实际上全部是依靠多态这个特性来实现的。
 后面几个章节将介绍一下 C 语言开发中常用的设计模式，注意不是 C++ 语言。C 语言同样可以做到面向对象设计。只不过需要开发者自己做一些基础设施。&lt;/p&gt;
+&lt;hr&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://refactoringguru.cn/design-patterns/&#34;&gt;https://refactoringguru.cn/design-patterns/&lt;/a&gt;&amp;#160;&lt;a href=&#34;http://www.wheegoo.com/post/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B8%80/#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;李建忠《 C++ 设计模式》课件&amp;#160;&lt;a href=&#34;http://www.wheegoo.com/post/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B8%80/#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
 </description>
                 
                 
