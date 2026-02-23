@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>读后感 on Wheegoo 的空间站</title>
+    <link>http://www.wheegoo.com/categories/%E8%AF%BB%E5%90%8E%E6%84%9F/</link>
+    <description>Recent content in 读后感 on Wheegoo 的空间站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <managingEditor>wheegoo@gmail.com (JinWei)</managingEditor>
+    <webMaster>wheegoo@gmail.com (JinWei)</webMaster>
+    <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+    <lastBuildDate>Sun, 05 Jul 2020 20:39:04 +0800</lastBuildDate>
+    <atom:link href="http://www.wheegoo.com/categories/%E8%AF%BB%E5%90%8E%E6%84%9F/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关于金钱观</title>
+      <link>http://www.wheegoo.com/post/%E5%85%B3%E4%BA%8E%E9%87%91%E9%92%B1%E8%A7%82/</link>
+      <pubDate>Sun, 05 Jul 2020 20:39:04 +0800</pubDate><author>wheegoo@gmail.com (JinWei)</author>
+      <guid>http://www.wheegoo.com/post/%E5%85%B3%E4%BA%8E%E9%87%91%E9%92%B1%E8%A7%82/</guid>
+      <description>把吴军老师《见识》这本书中关于金钱观的金句摘录如下，温故知新： 钱是上帝存在你那</description>
+    </item>
+    <item>
+      <title>关于伪工作者</title>
+      <link>http://www.wheegoo.com/post/%E5%85%B3%E4%BA%8E%E4%BC%AA%E5%B7%A5%E4%BD%9C%E8%80%85/</link>
+      <pubDate>Mon, 29 Jun 2020 22:54:31 +0800</pubDate><author>wheegoo@gmail.com (JinWei)</author>
+      <guid>http://www.wheegoo.com/post/%E5%85%B3%E4%BA%8E%E4%BC%AA%E5%B7%A5%E4%BD%9C%E8%80%85/</guid>
+      <description>一封公司研发的内部邮件： 当前，公司处于快速发展的阶段，很多研发人员手上在做的事</description>
+    </item>
+    <item>
+      <title>关于吴军老师的书</title>
+      <link>http://www.wheegoo.com/post/%E5%85%B3%E4%BA%8E%E5%90%B4%E5%86%9B%E8%80%81%E5%B8%88%E7%9A%84%E4%B9%A6/</link>
+      <pubDate>Sun, 21 Jun 2020 09:51:07 +0800</pubDate><author>wheegoo@gmail.com (JinWei)</author>
+      <guid>http://www.wheegoo.com/post/%E5%85%B3%E4%BA%8E%E5%90%B4%E5%86%9B%E8%80%81%E5%B8%88%E7%9A%84%E4%B9%A6/</guid>
+      <description>我比较喜欢吴军老师的书，最早接触到吴军老师的书是《浪潮之颠》，那时候估计刚刚出</description>
+    </item>
+  </channel>
+</rss>

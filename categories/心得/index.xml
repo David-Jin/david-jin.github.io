@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>心得 on Wheegoo 的空间站</title>
+    <link>http://www.wheegoo.com/categories/%E5%BF%83%E5%BE%97/</link>
+    <description>Recent content in 心得 on Wheegoo 的空间站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <managingEditor>wheegoo@gmail.com (JinWei)</managingEditor>
+    <webMaster>wheegoo@gmail.com (JinWei)</webMaster>
+    <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+    <lastBuildDate>Thu, 25 Jun 2020 19:49:33 +0800</lastBuildDate>
+    <atom:link href="http://www.wheegoo.com/categories/%E5%BF%83%E5%BE%97/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>开箱即用</title>
+      <link>http://www.wheegoo.com/post/%E5%BC%80%E7%AE%B1%E5%8D%B3%E7%94%A8/</link>
+      <pubDate>Thu, 25 Jun 2020 19:49:33 +0800</pubDate><author>wheegoo@gmail.com (JinWei)</author>
+      <guid>http://www.wheegoo.com/post/%E5%BC%80%E7%AE%B1%E5%8D%B3%E7%94%A8/</guid>
+      <description>我有些开箱即用的感悟想记录下来，分两个方面来讨论： 产品的开箱即用 技术的开箱即用</description>
+    </item>
+  </channel>
+</rss>
